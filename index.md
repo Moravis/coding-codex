@@ -1,3 +1,3 @@
 ---
-title: Welcome to my journey!
+Coding codex of Moravis: Welcome to my journey!
 ---
